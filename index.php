@@ -3,7 +3,7 @@
     require('config/db.php');
 
     // Create Result
-    $query = 'SELECT * FROM pots';
+    $query = 'SELECT * FROM pots ORDER BY created_at DESC';
 
     // Get results
 

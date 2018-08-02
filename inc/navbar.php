@@ -8,7 +8,7 @@
             <a class="nav-link" href="<?php echo ROOT_URL ;?>">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="<?php echo ROOT_URL ;?>addpost.php">Add Post</a>
           </li>
         </ul>
 
